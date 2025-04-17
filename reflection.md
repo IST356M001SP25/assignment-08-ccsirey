@@ -23,3 +23,5 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+
+this was one where I felt like it got easier as I went on. For the functions. I needed to think back group pivot tables and all of that. It is something I've learned a few times by now but I always seem to find it a bit tricky. I am also not used to using the __name__ function. Typically I just pass it because I don't really need it. But i guess making it required was smarts because I was more committed to figuring it out :). The first mapping function I found to also be a bit tricky, but found making the bar charts to be pretty easy.
